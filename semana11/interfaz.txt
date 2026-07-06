@@ -1,0 +1,6 @@
+La interfaz tendría una sección para crear una nueva causa comunitaria con título, descripción y fecha.
+También incluiría una lista de causas disponibles para que los usuarios puedan leerlas y revisarlas.
+Cada causa mostraría un botón de apoyo y un contador que indique cuántas personas la han apoyado.
+La vista debería ser clara, organizada y sencilla para facilitar la participación de los usuarios.
+No se mostraría información privada de los usuarios en la interfaz pública.
+El diseño debe priorizar la usabilidad y la comprensión rápida de las acciones disponibles.
